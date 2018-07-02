@@ -1,5 +1,4 @@
-#Dependencies
-
+# Dependencies
 You will need to install Python's OpenCV library:
 
       pip install opencv-python
@@ -17,5 +16,12 @@ b) location of the images folder which has images stored in database
 c) query image which is to be matched
 
 
+Example:
+
+<img width="682" alt="screen shot 2018-07-03 at 00 23 54" src="https://user-images.githubusercontent.com/40769934/42181472-8c6a11be-7e58-11e8-8216-45c1fbd4b356.png">
+
 
   
+ This will produce the following output:
+ 
+ 
