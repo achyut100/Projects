@@ -25,3 +25,10 @@ Example:
  This will produce the following output:
  
  
+ 
+<img width="889" alt="screen shot 2018-07-03 at 01 27 41" src="https://user-images.githubusercontent.com/40769934/42183732-9832f0bc-7e60-11e8-9a88-b4b5bfdecd79.png">
+
+
+
+As you can see in the above snap the script was able to locate and indentify the book in the noisy image with an accuracy of
+82.46%.
